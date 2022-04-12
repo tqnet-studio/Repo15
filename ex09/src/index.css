@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+  }
+
+
+footer{
+  background-color: #ccc;
+   }          
+  
+
+
+a{
+    text-decoration: none;
+    color: rgb(58, 58, 58);
+    padding: 15px;
+}
+.nav_bar ul {
+list-style-type: none;
+  margin: 0;
+  padding: 0;
+          }
+
+li {
+    display: inline;
+    float: right;
+          }
+ li a{
+    display: block;
+    padding: 8px;
+    
+ }
+
+ .nav_bar ul li a{
+    color: red;
+     }  
